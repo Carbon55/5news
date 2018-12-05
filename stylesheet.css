@@ -4,98 +4,20 @@ color:  blue;
 
 
 }
+
+.row {
+    margin: auto;
+}
 .nav-item {
-
-
 	padding-left: 100px;
 	padding-right: 100px;
 }
-.a1 {
-
-/*height:  500px;
-width: 500px*/;
-position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-
-}
 body {
-
-background-image: url(background.jpg);
-background-size:1000px 1000px;
-
-
+    background-image: url(background.jpg);
+    background-size:2000px 2000px;
 }
+
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
-
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
-/* Centered text */
-.centered1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
- 
-}
-.a1a {
-
-position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%)
- 
-
-}
-.centered2 {
-    position: absolute;
-    top: 50%;
-    left: -200px;
-    transform: translate(-50%, -50%);
-    color: white;
-    }
-    .a2 {
-
-height:  500px;
-width: 500px;
-position: absolute;
-    top: 50%;
-    left: -200px;
-    transform: translate(-50%, -50%);
-
-
+    max-width: 100000px !important;
 }
 
