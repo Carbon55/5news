@@ -21,3 +21,13 @@ body {
     max-width: 100000px !important;
 }
 
+.card {
+height: 100%;
+
+
+}
+.buttonbottom {
+position: absolute;
+bottom: 15px;
+
+}
