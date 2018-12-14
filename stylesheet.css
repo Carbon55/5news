@@ -13,8 +13,8 @@ color:  blue;
 	padding-right: 100px;
 }
 body {
-    background-image: url(background3.jpg);
-    background-size: 1750px 1550px;
+    background-image: url(background.jpg);
+    /*background-size: 2000px 1000px;*/
 }
 
 .container {
@@ -23,9 +23,15 @@ body {
 
 .card {
 height: 100%;
-
-
+background-color: rgba(240, 240, 240, 0.75) !important;
+  transition: 0.9s;
 }
+
+.card:hover{
+	background-color: rgba(240, 240, 240, 1) !important;
+}
+
+
 .buttonbottom {
 position: absolute;
 bottom: 15px;
