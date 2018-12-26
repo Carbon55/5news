@@ -1,3 +1,8 @@
+/*.subtitle {
+
+size: px !important;
+
+}*/
 h1 {
 
 color:  blue;
@@ -11,6 +16,7 @@ color:  blue;
 .nav-item {
 	padding-left: 100px;
 	padding-right: 100px;
+	/*padding-bottom: 10px;*/
 }
 body {
     background-image: url(background2.jpg);
@@ -37,3 +43,27 @@ position: absolute;
 bottom: 15px;
 
 }
+
+.a1 {
+
+text-align: center;
+color: white;
+
+
+}
+
+.title {
+text-align: center !important;
+font-size: 100px !important;  
+color: white !important;
+padding-top: 10px !important;
+
+}
+.vid {
+  
+}
+.blockquote-footer {
+
+	color: black !important;
+}
+
