@@ -74,14 +74,8 @@ padding-top: 10px !important;
 }
 
 .secret {
-display: hidden;
-color: #d3e0a6;
-
-
-}
-.secret:hover {
-display: block;
-
-
+/*display: hidden;
+color: #d3e0a6;*/
+text-align: right;
 
 }
