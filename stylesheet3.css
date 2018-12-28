@@ -20,7 +20,7 @@ color:  blue;
 }
 body {
   background-repeat: no-repeat;
-    background-image: url(secret.jpg);
+    background-image: url(ibis2.png);
     /*background-size: 2000px 1000px;*/
 }
 
@@ -92,5 +92,8 @@ text-align: center;
  background-position: 0px -500px;
 color: white;
   margin-top: 300px;
+display: block;
+
+
 
 }

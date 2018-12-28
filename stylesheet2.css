@@ -19,8 +19,11 @@ color:  blue;
 	/*padding-bottom: 10px;*/
 }
 body {
-    background-image: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif);
+  background-position: center;
+ /* background-transform:translateY(50px);
+*/    background-image: url(secret2.png);
     /*background-size: 2000px 1000px;*/
+    height: 700px;
 }
 
 .container {

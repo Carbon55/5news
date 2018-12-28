@@ -1,0 +1,76 @@
+<div class="login">
+</h1>
+<form name="login">
+<!-- Username<input type="text" name="userid"/> -->
+<!-- Password --><input type="password" name="pswrd"/>
+<input type="button" onclick="check(this.form)" value="We Have Our Information"/>
+<!-- <input type="reset" value="Cancel"/> -->
+</form>
+<script language="javascript">
+function check(form)/*function to check userid & password*/
+{
+ /*the following code checkes whether the entered userid and password are matching*/
+ if( form.pswrd.value == "info")
+  {
+    window.open('planning.html')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   // alert("")displays error message
+  }
+}
+</script>
+
+</div>
+<div class="login">
+</h1>
+<form name="login">
+<!-- Username<input type="text" name="userid"/> -->
+<!-- Password --><input type="password" name="pswrd"/>
+<input type="button" onclick="check(this.form)" value="We Have Our Tools"/>
+<!-- <input type="reset" value="Cancel"/> -->
+</form>
+<script language="javascript">
+function check(form)/*function to check userid & password*/
+{
+ /*the following code checkes whether the entered userid and password are matching*/
+ if( form.pswrd.value == "armory")
+  {
+    window.open('secret2.html')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   // alert("")displays error message
+  }
+}
+</script>
+
+</div>
+<div class="login">
+</h1>
+<form name="login">
+<!-- Username<input type="text" name="userid"/> -->
+<!-- Password --><input type="password" name="pswrd"/>
+<input type="button" onclick="check(this.form)" value="We Have Our Plans"/>
+<!-- <input type="reset" value="Cancel"/> -->
+</form>
+<script language="javascript">
+function check(form)/*function to check userid & password*/
+{
+ /*the following code checkes whether the entered userid and password are matching*/
+ if( form.pswrd.value == "plans")
+  {
+    window.open('secret2.html')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   // alert("")displays error message
+  }
+}
+</script>
+
+</div>
+
+
+
+
