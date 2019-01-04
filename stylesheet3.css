@@ -20,8 +20,15 @@ color:  blue;
 }
 body {
   background-repeat: no-repeat;
-    background-image: url(ibis2.png);
+  background-position: center;
+    background-image: url(secret3.png);
+   background-size: 	cover;
     /*background-size: 2000px 1000px;*/
+   height: 100%;
+}
+
+html {
+	height: 100%;
 }
 
 .container {
