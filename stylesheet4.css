@@ -1,0 +1,106 @@
+/*.subtitle {
+
+size: px !important;
+
+}*/
+h1 {
+
+color:  blue;
+
+
+}
+
+.row {
+    margin: auto;
+}
+.nav-item {
+	padding-left: 100px;
+	padding-right: 100px;
+	/*padding-bottom: 10px;*/
+}
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+    background-image: url(secret4.png);
+   background-size: 	cover;
+    /*background-size: 2000px 1000px;*/
+   height: 100%;
+}
+
+html {
+	height: 100%;
+}
+
+.container {
+    max-width: 100000px !important;
+}
+
+.card {
+height: 100%;
+background-color: rgba(240, 240, 240, 0.45) !important;
+  transition: 1.5s;
+}
+
+.card:hover{
+	background-color: rgba(240, 240, 240, 1) !important;
+}
+
+
+.buttonbottom {
+position: absolute;
+bottom: 15px;
+
+}
+
+.a1 {
+
+text-align: center;
+color: white;
+
+
+}
+
+.title {
+text-align: center !important;
+font-size: 100px !important;  
+color: white !important;
+padding-top: 10px !important;
+
+}
+.vid {
+  
+}
+.blockquote-footer {
+
+	color: black !important;
+}
+
+
+.authors {
+
+
+}
+
+.secret {
+display: hidden;
+color: #d3e0a6;
+text-align: left !important;
+
+}
+.secret:hover {
+display: block;
+
+
+
+}
+.login {
+text-align: center;
+ background-width: 1px;
+ background-position: 0px -500px;
+color: white;
+  margin-top: 300px;
+display: block;
+
+
+
+}
